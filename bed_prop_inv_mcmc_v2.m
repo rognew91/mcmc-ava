@@ -1,17 +1,18 @@
 %bed_prop_inv_mcmc_v2.m
 %performs bayesian mcmc inversion of glaciological ava data
-
+%Ronan Agnew 2024, rognew91@bas.ac.uk
 
 
 %inputs and outputs are in .mat files
 %input data must be in the format of 1xn matrices
 %n is the no of points/traces in the AVA data
+%to set up inversion edit lines 22-53, 128-208
 
 %you will need the statistics and machine learning toolbox
 %you will also need the CREWES zoeppritz function:https://www.crewes.org/ResearchLinks/FreeSoftware/index.php
 
 addpath('synth_inputs')%where the synthetic ava data are
-addpath('C:\Users\rognew91\OneDrive - NERC\Documents\MATLAB\crewes\syntraces');%add path of CREWES zoeppritz function
+addpath('PATH-FOR-CREWES');%add path of CREWES zoeppritz function
 
 clear
 
