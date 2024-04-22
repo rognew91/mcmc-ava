@@ -1,5 +1,5 @@
 %bed_prop_inv_mcmc_v2.m
-%performs bayesian mcmc inversion of glaciological ava data
+%performs bayesian mcmc inversion of glaciological ava data as described in Ronan Agnew, PhD thesis (University of Leeds, 2024)
 %Ronan Agnew 2024, rognew91@bas.ac.uk
 
 
