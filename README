@@ -5,4 +5,4 @@ Inversion as described in Ronan Agnew, PhD thesis, University of Leeds (2024)
 --- the other functions and scripts relate to plotting and saving the inversion results ---
 --- you will need the MATLAB statistics and machine learning toolbox ---
 --- you will also need the CREWES zoeppritz function (Gary F. Margrave):https://www.crewes.org/ResearchLinks/FreeSoftware/index.php ---
---- Ronan Agnew 2024 ---
+--- Ronan Agnew 2024, rognew91@bas.ac.uk ---
